@@ -1,0 +1,33 @@
+Creating directory , renaming director ,creating txt .renaming it .
+
+
+
+
+Displaying all content in /etc/passwd 
+
+Using Head commend displaying top 5 lines .in /etc/passwd
+
+
+
+Grep command filtering root kewyword password
+
+CREATING ZIP FILE
+
+
+unzip ~/test_dir.zip -d ~/unzipped_dir
+
+
+
+Unzipped test_dir.zip
+
+
+
+Wget url( Downloadiing file )
+
+
+
+Permission change secure.txt (read permission )
+
+
+         
+
